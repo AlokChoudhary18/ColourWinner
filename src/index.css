@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body{
+    overflow-x: hidden;
+}
+#home{
+    background-image: url(./assets/blue.jpg);
+}
+
+#banner{
+    background: rgb(26,109,189);
+    background: linear-gradient(326deg, rgba(26,109,189,1) 18%, rgba(6,75,157,1) 68%);
+}
+#winner{
+    background: rgb(26,109,189);
+    background: linear-gradient(326deg, rgba(26,109,189,1) 18%, rgba(6,75,157,1) 68%);
+}
